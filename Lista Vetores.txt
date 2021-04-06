@@ -1,0 +1,23 @@
+1 - Escreva um programa que armazene elementos em um vetor e imprima-os 
+Exemplo de entrada: Armazene 5 elementos em um vetor : Elemento - 0 : 1 Elemento - 1 : 4 Elemento - 2 : 3 Elemento - 3 : 6 Elemento - 4 : 8 
+Saída esperada: Os elementos no vetor são : 1 4 3 6 8 
+
+2 - Escreva um programa que armazene elementos em um vetor e encontra o valor mínimo e máximo 
+Exemplo de entrada: Armazene 5 elementos em um vetor : Elemento - 0 : 1 Elemento - 1 : 4 Elemento - 2 : 3 Elemento - 3 : 8 Elemento - 4 : 6 
+Saída esperada: Elemento máximo : 1 Elemento minimo : 8 
+
+3 - Escreva um programa que leia 10 números inteiros do teclado e armazena no vetor. 
+Após isso, imprima os 10 inteiros em ordem inversa ao que foi digitado. 
+
+4 - Escreva um programa que armazene X números em um vetor e calcule o valor médio do vetor.
+ 
+5 - Escreva uma função que retorna todos os valores duplicados de um array 
+
+6 - Escreva uma função que ordena um vetor com 20 números. Dica : Pesquisar por Bubble Sort
+ 
+7 - Escreva uma função que calcula a média dos números de um vetor, excluindo o maior 
+e o menor valor. 
+
+8 - Escreva uma função que calcula a soma dos valores da diagonal de uma matriz. 
+
+9 - Escreva uma função que multiplica duas matrizes

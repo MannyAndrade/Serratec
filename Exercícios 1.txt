@@ -1,0 +1,65 @@
+
+https://meet.google.com/dax-koxn-oho?authuser=3&pli=1
+
+1 - Escreva um programa que encontre o valor máximo entre 2 números 
+Exemplo : 
+Entrada: Digite um número: 2 Digite outro número: 1 
+Saída: O número 2 é maior que o número 1 
+2 - Escreva um programa que diga se o número é par ou ímpar Dica : o operador % calcula a divisão de um número X por um número Y 
+e retorna o resto da divisão 
+Exemplo : 
+Entrada: Digite um número : 2 
+Saída: O número 2 é par 
+
+funcao inicio()
+	{
+		inteiro numero
+
+		escreva("Escolha um número: ")
+		leia(numero)
+
+		se(numero % 2 == 0 e numero != 0){
+			escreva("O número " + numero + " é par")
+			}
+		senao se (numero % 2 != 0){
+			escreva("O número " + numero +  " é impar")
+			}	
+		senao se (numero ==0){
+			escreva("O número é zero")
+			}
+		senao{
+			escreva("Houve uma falha na operação, por favor tente mais tarde")
+		}		
+
+
+5 - Escrever um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e salário no final do mês. +
+
+6 - Escrever um algoritmo que leia o nome de um aluno e as notas das três provas que ele obteve no semestre. No final informar o nome do aluno e a sua média (aritmética). 
+
+7 - Ler dois valores para as variáveis A e B, o efetuar as trocas dos valores de forma que a variável A passe a possuir o valor da variável Be a variável B passe a possuir o valor da variável A. Apresentar os valores trocados.
+
+8 - Elaborar um algoritmo que efetue a apresentação do valor da conversão em real (R$) de um valor lido em dólar (US$). O algoritmo deverá solicitar o valor da cotação do dólar e também a quantidade de dólares disponíveis com o usuário. 
+
+9 - O custo ao consumidor de um carro novo é a soma do custo de fábrica com a percentagem do distribuidor e dos impostos (aplicados, primeiro os impostos sobre o custo de fábrica, e depois a percentagem do distribuidor sobre o resultado). Supondo que a percentagem do distribuidor seja de 28% e os impostos 45%. Escrever um algoritmo que leia o custo de fábrica de um carro e informe o custo ao consumidor do mesmo.
+
+10 - Monte um programa que armazene e apresente nome, sobrenome, idade, peso altura
+
+
+2 - Escreva um programa para verificar se um triângulo é Equilátero, Isósceles ou Escaleno. 
+Exemplo de entrada: 50 50 60 
+Saída esperada: O triângulo é isósceles
+ 
+3 - Escreva um programa para verificar se um caractere é uma vogal ou consoante. 
+Exemplo de entrada: kSaída esperada: k é uma consoante 
+
+4 - Escreva um programa que funcione como uma calculadora simples de soma (+), subtração(-), multiplicação(*) e divisão(/) 
+Exemplo de entrada: 102*Saída esperada: 10 * 2 = 20 
+
+5 - Implemente um programa tomador de decisão que considera as seguintes opções para determinar se o usuário usará a fila preferencial ou a fila comum. 
+O usuário usa a fila preferencial caso : 
+	Possui mais de 60 anos : Usa fila preferencial 
+	É deficiente físico : Usa fila preferencial 
+	É mulher gestante : Usa fila preferencial 
+O programa recebe como entrada a Idade, Sexo e a condição especial do usuário, se houver. 
+Exemplo de entrada: 22homem deficiente 
+Saída esperada: Fila preferencial
